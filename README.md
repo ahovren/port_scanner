@@ -7,14 +7,14 @@ It provides a clean graphical interface for conducting stealth SYN scans (`-sS`)
 
 ## Key Features
 
-- 🔹 Multi-target scanning (IP or hostname)
-- 🔹 Stealth SYN scans (`-sS`) using Nmap
-- 🔹 Service and version detection (`-sV`)
-- 🔹 Graphical User Interface built with `tkinter`
-- 🔹 Real-time scan output in the GUI
-- 🔹 Progress bar for scan tracking
-- 🔹 Start and stop scan controls
-- 🔹 Automatically saves results in `.txt` and `.json` formats
+-  Multi-target scanning (IP or hostname)
+-  Stealth SYN scans (`-sS`) using Nmap
+-  Service and version detection (`-sV`)
+-  Graphical User Interface built with `tkinter`
+-  Real-time scan output in the GUI
+-  Progress bar for scan tracking
+-  Start and stop scan controls
+-  Automatically saves results in `.txt` and `.json` formats
 
 ---
 
